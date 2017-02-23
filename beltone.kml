@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Partenaires Beltone</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Partenaires Beltone</name>
+      <Placemark>
+        <name>Voir et entendre</name>
+        <address>Voir et entendre</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/7XVscuueyoMJBXM6aTw-MmIQU-XeGZBGkgznPJPqZCfpuffZR8XfJAvKf7LB2pjI2G6e6V7n-aAUSrekMyd8zhavRZmKZ4jOiGFygFmfcEwHfgZqoOQ9mO4Lg9-8HGs" height="200" width="auto" /><br><br>Adresse: 5 Place des Cordeliers<br>Code postal: 69002<br>Commune: Lyon<br>Site internet: http://voiretentendre.fr<br>Numéro de téléphone: +33 4 72 56 44 22]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>5 Place des Cordeliers</value>
+          </Data>
+          <Data name="Code postal">
+            <value>69002.0</value>
+          </Data>
+          <Data name="Commune">
+            <value>Lyon</value>
+          </Data>
+          <Data name="Site internet">
+            <value>http://voiretentendre.fr</value>
+          </Data>
+          <Data name="Numéro de téléphone">
+            <value>+33 4 72 56 44 22</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/7XVscuueyoMJBXM6aTw-MmIQU-XeGZBGkgznPJPqZCfpuffZR8XfJAvKf7LB2pjI2G6e6V7n-aAUSrekMyd8zhavRZmKZ4jOiGFygFmfcEwHfgZqoOQ9mO4Lg9-8HGs</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>GN Hearing France</name>
+        <description><![CDATA[Adresse: 1 place des états unis<br>Code postal: 94150<br>Commune: Rungis<br>Site internet: http://resound.com<br>Numéro de téléphone: 0102030405]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>1 place des états unis</value>
+          </Data>
+          <Data name="Code postal">
+            <value>94150.0</value>
+          </Data>
+          <Data name="Commune">
+            <value>Rungis</value>
+          </Data>
+          <Data name="Site internet">
+            <value>http://resound.com</value>
+          </Data>
+          <Data name="Numéro de téléphone">
+            <value>0102030405</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.356344,48.748301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
